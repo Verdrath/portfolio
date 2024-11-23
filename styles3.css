@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lato:wght@400&family=Montserrat:wght@500&display=swap');
+
+body {
+    background-color: #D8DDEF;
+    color: #383D3B;
+    text-align: center;
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+}
+strong {
+    color: #2A9D8F;
+}
+span {
+    border-bottom: 4px solid #383D3B;
+}
+p {
+    font-family: 'Lato', sans-serif;
+}
+header {
+    border-bottom: 7px solid #383D3B;
+}
+footer {
+    font-family: 'Lato', sans-serif;
+}
+a {
+    font-family: 'Montserrat', sans-serif;
+    color: #BF4E30;
+    text-decoration: none;
+}
+a:hover {
+    color: #A14426;
+    text-decoration: underline;
+}
+img {
+     border: 5px double #383D3B
+}
+button {
+    background-color: #383D3B;
+    color: #D8DDEF;
+}
