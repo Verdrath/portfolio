@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lato:wght@400&family=Montserrat:wght@500&display=swap');
+
+body {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+h1 {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+}
+strong {
+    color: #6E2594;
+}
+span {
+    border-bottom: 4px solid #6E2594;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+}
+header {
+    border-bottom: 7px ridge #B3B492;
+}
+footer {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+}
+a {
+    font-family: 'Lora', serif;
+    color: #EFAAC4;
+    text-decoration: none;
+    font-weight: 500;
+}
+a:hover {
+    color: #DDA59D;
+}
+img {
+     border: 5px outset #B3B492
+}
+button {
+    background-color: #B3B492;
+    color: black;
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lato:wght@400&family=Montserrat:wght@500&display=swap');
+
+body {
+    background-color: #3C1518;
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+strong {
+    color: #B86F52;
+}
+span {
+    border-bottom: 4px ridge #B86F52;
+}
+p {
+    font-family: 'Lato', sans-serif;
+}
+header {
+    border-bottom: 7px ridge #2E382E;
+}
+footer {
+    font-family: 'Raleway', sans-serif;
+}
+a {
+    font-family: Helvetica;
+    color: #8A9B68;
+    text-decoration: none;
+}
+a:hover {
+    color: #7B8F59;
+    text-decoration: underline;
+}
+img {
+     border: 5px outset burlywood
+}
+button {
+    background-color: #2E382E;
+    color: white;
+}
