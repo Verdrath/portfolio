@@ -7,3 +7,7 @@ function mudarEstilo2() {
 function mudarEstilo3() {
     document.getElementById('estilo').setAttribute('href', 'styles3.css');
 }
+
+function tirarEstilo() {
+    document.getElementById('estilo').setAttribute('href' , 'style-base.css');
+}
