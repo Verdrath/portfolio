@@ -9,7 +9,10 @@ h1 {
     font-family: 'Merriweather', serif;
     font-weight: 700;
 }
-strong {
+.titulo-destaque {
+    color: #A98DB8; /* Lilás suave para combinar com #6E2594 */
+}
+.texto-destaque {
     color: #6E2594;
 }
 span {
@@ -20,7 +23,7 @@ p {
     line-height: 1.6;
 }
 header {
-    border-bottom: 7px ridge #B3B492;
+    border-bottom: 7px ridge #7C6E99; /* Tom frio que harmoniza com o esquema */
 }
 footer {
     font-family: 'Roboto', sans-serif;
@@ -36,9 +39,9 @@ a:hover {
     color: #DDA59D;
 }
 img {
-     border: 5px outset #B3B492
+     border: 5px outset #7C6E99;
 }
 button {
-    background-color: #B3B492;
+    background-color: #7C6E99;
     color: black;
 }

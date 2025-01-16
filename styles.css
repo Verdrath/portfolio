@@ -8,7 +8,12 @@ body {
 h1 {
     font-family: 'Poppins', sans-serif;
 }
-strong {
+
+.titulo-destaque {
+    color: #5B8A72
+}
+
+.texto-destaque {
     color: #B86F52;
 }
 span {
