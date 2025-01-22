@@ -16,17 +16,18 @@ h1 {
 .texto-destaque {
     color: #B86F52;
 }
-span {
-    border-bottom: 4px ridge #B86F52;
+.contatos {
+    font-family: 'Raleway', sans-serif;
 }
-p {
+.contato-info {
+    border-bottom: 4px ridge #B86F52;
+    display: inline-block;
+}
+.parágrafo {
     font-family: 'Lato', sans-serif;
 }
 header {
     border-bottom: 7px ridge #2E382E;
-}
-footer {
-    font-family: 'Raleway', sans-serif;
 }
 a {
     font-family: Helvetica;

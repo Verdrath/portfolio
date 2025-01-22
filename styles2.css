@@ -10,24 +10,26 @@ h1 {
     font-weight: 700;
 }
 .titulo-destaque {
-    color: #A98DB8; /* Lilás suave para combinar com #6E2594 */
+    color: #A98DB8;
 }
 .texto-destaque {
     color: #6E2594;
 }
-span {
-    border-bottom: 4px solid #6E2594;
+.contatos {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
 }
-p {
+.contato-info {
+    display: inline-block;
+    border-bottom: 4px solid #6E2594;
+    
+}
+.parágrafo {
     font-family: 'Roboto', sans-serif;
     line-height: 1.6;
 }
 header {
     border-bottom: 7px ridge #7C6E99; /* Tom frio que harmoniza com o esquema */
-}
-footer {
-    font-family: 'Roboto', sans-serif;
-    line-height: 1.6;
 }
 a {
     font-family: 'Lora', serif;

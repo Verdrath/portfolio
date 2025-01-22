@@ -16,17 +16,18 @@ h1 {
 .texto-destaque {
     color: #2A9D8F;
 }
-span {
-    border-bottom: 4px solid #383D3B;
+.contatos {
+    font-family: 'Lato', sans-serif;
 }
-p {
+.contato-info {
+    border-bottom: 4px solid #383D3B;
+    display: inline-block;
+}
+.parágrafo {
     font-family: 'Lato', sans-serif;
 }
 header {
     border-bottom: 7px solid #383D3B;
-}
-footer {
-    font-family: 'Lato', sans-serif;
 }
 a {
     font-family: 'Montserrat', sans-serif;
