@@ -9,6 +9,10 @@ h1 {
     font-family: 'Merriweather', serif;
     font-weight: 700;
 }
+.subtitulo{
+    font-family: 'Merriweather', serif;
+    font-weight: 500;
+}
 .titulo-destaque {
     color: #A98DB8;
 }
