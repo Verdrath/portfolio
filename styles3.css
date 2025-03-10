@@ -5,12 +5,14 @@ body {
     color: #383D3B;
     text-align: center;
 }
-h1 {
+.titulo {
     font-family: 'Playfair Display', serif;
+    font-size: 39px;
 }
 .subtitulo {
     font-family: 'Playfair Display', serif;
     font-weight: 400;
+    font-size: 22px;
 }
 .titulo-destaque {
     color: #6C757D 
@@ -19,15 +21,16 @@ h1 {
 .texto-destaque {
     color: #2A9D8F;
 }
-.contatos {
+footer {
     font-family: 'Lato', sans-serif;
-}
-.contato-info {
     border-bottom: 4px solid #383D3B;
     display: inline-block;
+    line-height: 1.4;
 }
-.parágrafo {
+.paragrafo {
     font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    margin: 3%;
 }
 header {
     border-bottom: 7px solid #383D3B;
@@ -41,10 +44,11 @@ a:hover {
     color: #A14426;
     text-decoration: underline;
 }
-img {
-     border: 5px double #383D3B
-}
 button {
     background-color: #383D3B;
     color: #D8DDEF;
+}
+.certificados {
+    font-size: 17px;
+    margin: 3%;
 }
